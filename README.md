@@ -17,3 +17,10 @@ Se implementa un ejemplo de solución de arranque en frio basado en pareto
 
 ## Otro contenido
 Ademas de los ejemplos, este repositorio contiene una carpeta `dataset` en la que se encuentran los datos necesarios para los ejemplos. También existe una carpeta `imagenes` en la cual están las imagenes que se usan en los notebook.
+
+## Bibliotecas necesarias
+Las bibliotecas necesarias para los ejemplos son:
+
+[TODO] Incorpor todas
+- **sentence-transformers**: conda install -c conda-forge sentence-transformers
+- **faiss**: conda install -c conda-forge faiss
