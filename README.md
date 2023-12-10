@@ -63,7 +63,7 @@ conda install -c anaconda numpy
 conda install -c conda-forge sentence-transformers
 ```
 
-- [**faiss**](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/): Base de datos de vectores 
+- [**faiss**](https://github.com/facebookresearch/faiss/): Base de datos de vectores
 
 ```
 conda install -c conda-forge faiss
