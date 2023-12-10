@@ -21,6 +21,50 @@ Ademas de los ejemplos, este repositorio contiene una carpeta `dataset` en la qu
 ## Bibliotecas necesarias
 Las bibliotecas necesarias para los ejemplos son:
 
-[TODO] Incorpor todas
-- **sentence-transformers**: conda install -c conda-forge sentence-transformers
-- **faiss**: conda install -c conda-forge faiss
+- [**Pandas**](https://pandas.pydata.org/): Manipulación y análisis de datos
+
+```
+conda install pandas
+```
+
+- [**Numpy**](http://www.numpy.org/): Extensión cálculos vectores y matrices
+
+```
+conda install -c anaconda numpy 
+```
+
+- [**Gensim**](https://radimrehurek.com/gensim): Modelos de PLN
+
+```
+ conda install -c conda-forge gensim
+```
+
+- [**NLTK**](https://www.nltk.org/): Herramientas para tratamiento de lenguaje
+
+```
+ conda install -c anaconda nltk 
+```
+
+- [**Scikit-learn**](https://scikit-learn.org/stable/): Modelos de ML
+
+```
+ conda install -c anaconda scikit-learn 
+```
+
+- [**Matplotlib**](https://matplotlib.org/): Gráficos
+
+```
+ conda install -c conda-forge matplotlib
+```
+
+- [**sentence-transformers**](https://www.sbert.net/): Generación de embeddings
+
+```
+conda install -c conda-forge sentence-transformers
+```
+
+- [**faiss**](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/): Base de datos de vectores 
+
+```
+conda install -c conda-forge faiss
+```
