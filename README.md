@@ -51,6 +51,12 @@ conda install -c anaconda numpy
  conda install -c anaconda scikit-learn 
 ```
 
+- [**Surprise**](http://surpriselib.com/): Recomendadores filtros colaborativos
+
+```
+conda install -c conda-forge scikit-surprise
+``` 
+
 - [**Matplotlib**](https://matplotlib.org/): Gráficos
 
 ```
